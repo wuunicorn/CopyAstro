@@ -1,109 +1,53 @@
 # 复制星座 隐私政策 / Copy Constellation Privacy Policy
 
-*最后更新日期：2025年8月 / Last Updated: August 2025*
+*最后更新日期：2026年5月 / Last Updated: May 2026*
 
 ## 引言 / Introduction
 
-感谢您使用 复制星座。我们深知个人信息对您的重要性，并会尽全力保护您的个人信息安全。本隐私政策旨在帮助您了解我们如何收集、使用和保护您的个人信息。
+感谢您使用 **复制星座 (Copy Constellation)**。我们深知个人信息对您的重要性，并始终坚持“本地优先、隐私至上”的原则。本隐私政策旨在帮助您了解我们如何确保您的数据安全。
 
-Thank you for using Copy Constellation. We deeply understand the importance of personal information to you and will do our utmost to protect your personal information security. This privacy policy is designed to help you understand how we collect, use, and protect your personal information.
+Thank you for using **Copy Constellation**. We understand the importance of your personal information and strictly adhere to the "Local First, Privacy First" principle. This policy explains how we keep your data secure.
 
-## 信息收集 / Information Collection
+## 信息收集与使用 / Information Collection & Usage
 
-本APP目前不收集任何信息
+1. **零服务器收集**: 本应用目前不收集、不上传任何个人信息。所有计算（包括地理坐标、出生日期等）均在您的设备本地完成。
+2. **档案管理**: 您在应用内保存的档案（姓名、性别、生辰、城市等）及计算历史，均加密存储在设备本地，不会同步到任何云端服务器。
+3. **地理位置**: 我们提供内置城市数据库供选择。如果您手动输入经纬度，这些数据仅用于本地天文计算，不会被共享。
 
-This app currently does not collect any information
-
-## 信息使用 / Information Usage
-
-所以也不涉及信息如何使用
-
-Therefore, there is no involvement in how information is used
-
-## 数据保护措施 / Data Protection Measures
-
-所以也不涉及信息如何保护
-
-Therefore, there is no involvement in how information is protected
-
-## 数据共享 / Data Sharing
-
-更没有数据共享给任何一方
-
-There is no data sharing with any party
+1. **Zero Server Collection**: This app does not collect or upload any personal information. All calculations (coordinates, birth dates, etc.) are performed locally on your device.
+2. **Profile Management**: Profiles saved within the app (names, gender, birth data, cities) and calculation history are stored encrypted locally on your device and never synced to any cloud servers.
+3. **Geolocation**: We provide a built-in city database. If you manually enter coordinates, they are used solely for local astronomical calculations and are never shared.
 
 ## 用户权利 / User Rights
 
-您对您的个人信息拥有以下权利：
+您对您的本地数据拥有完全的控制权：
+- **访问与修改**: 您可以随时查看、修改保存的档案。
+- **彻底删除**: 删除应用将同时清除所有本地存储的档案数据。
 
-You have the following rights regarding your personal information:
+You have complete control over your local data:
+- **Access & Edit**: You can view and modify saved profiles at any time.
+- **Permanent Deletion**: Deleting the app will remove all locally stored profile data.
 
-1. 访问权：查看您的个人信息 / Right of Access: View your personal information
-2. 更正权：更正不准确的信息 / Right of Correction: Correct inaccurate information
-3. 删除权：删除您的个人信息 / Right of Deletion: Delete your personal information
-4. 选择权：控制数据的收集范围 / Right of Choice: Control the scope of data collection
-5. 导出权：导出您的个人数据 / Right of Export: Export your personal data
-6. 控制权：完全控制本地数据存储 / Right of Control: Complete control over local data storage
+## 离线安全性 / Offline Security
 
-## 离线使用 / Offline Usage
+**复制星座** 的核心功能完全支持离线使用。由于无需联网，您的敏感占星数据绝不会在网络传输过程中被拦截或泄露。
 
-复制星座 的核心功能完全支持离线使用：
-
-Copy Constellation's core functions fully support offline usage:
-
-- 所有星座计算均在本地进行 / All constellation calculations are performed locally
-- 无需网络连接即可使用全部功能 / All functions can be used without internet connection
-- 保护用户隐私的同时确保功能完整性 / Protecting user privacy while ensuring functional completeness
+The core functions of **Copy Constellation** fully support offline usage. Since no internet connection is required, your sensitive astrological data is never at risk of interception during transmission.
 
 ## 儿童隐私 / Children's Privacy
 
-我们的服务不面向 13 岁以下的儿童。如果我们发现无意中收集了儿童的个人信息，我们会立即删除这些信息。
+我们的服务不面向 13 岁以下的儿童。如果您是家长并发现您的孩子输入了档案信息，您可以直接在设备上将其删除。
 
-Our services are not intended for children under 13 years of age. If we discover that we have inadvertently collected personal information from children, we will immediately delete such information.
-
-## 隐私政策更新 / Privacy Policy Updates
-
-我们可能会不时更新本隐私政策。当我们进行重大更改时，我们会：
-
-We may update this privacy policy from time to time. When we make significant changes, we will:
-
-- 在应用内显示通知 / Display notifications within the app
-- 更新政策的"最后更新日期" / Update the "Last Updated" date of the policy
-- 必要时请求您重新同意 / Request your renewed consent when necessary
-
-## 联系我们 / Contact Us
-
-如果您对本隐私政策有任何疑问或建议，请联系我们：
-
-If you have any questions or suggestions about this privacy policy, please contact us:
-
-- 邮箱 / Email：wuunicorn@gmail.com
+Our services are not intended for children under 13. If you are a parent and find your child has entered profile information, you can delete it directly on the device.
 
 ## 法律合规 / Legal Compliance
 
 本隐私政策遵循：
+- Apple App Store 隐私准则
+- GDPR (General Data Protection Regulation)
+- 个人信息保护法 (PIPL)
 
-This privacy policy follows:
+## 联系我们 / Contact Us
 
-- Apple App Store 隐私准则 / Apple App Store Privacy Guidelines
-- GDPR（通用数据保护条例）/ GDPR (General Data Protection Regulation)
-- CCPA（加州消费者隐私法案）/ CCPA (California Consumer Privacy Act)
-- 中国网络安全法 / China Cybersecurity Law
-- 个人信息保护法 / Personal Information Protection Law
-
-## 数据安全承诺 / Data Security Commitment
-
-我们承诺：
-
-We commit to:
-
-- 持续改进数据保护措施 / Continuously improve data protection measures
-- 定期审查和更新安全策略 / Regularly review and update security strategies
-- 及时响应安全事件和用户关切 / Promptly respond to security incidents and user concerns
-- 透明化数据处理流程 / Transparent data processing procedures
-
----
-
-*我们承诺持续改进我们的隐私保护措施，保护每位用户的个人信息安全。复制星座应用完全离线运行，确保您的数据始终掌握在您自己手中。*
-
-*We are committed to continuously improving our privacy protection measures to protect the personal information security of every user. The Copy Constellation app runs completely offline, ensuring your data always remains in your own hands.*
+如果您对本隐私政策有任何疑问，请联系我们：
+- 邮箱 / Email：wuunicorn@gmail.com
